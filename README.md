@@ -21,7 +21,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 **FreshMart** is a simulated online grocery platform facing real business problems: rapid growth without operational visibility, rising costs, customer churn, and inventory inefficiency.
 
@@ -36,7 +36,7 @@ This project simulates a **complete data analyst workflow** — from raw data in
 
 ---
 
-## 🎯 Objectives Answered
+## Objectives Answered
 
 | Question | Status |
 |----------|--------|
@@ -48,7 +48,7 @@ This project simulates a **complete data analyst workflow** — from raw data in
 
 ---
 
-## 📊 Dataset Summary
+## Dataset Summary
 
 | Metric | Value |
 |--------|-------|
@@ -62,6 +62,3 @@ This project simulates a **complete data analyst workflow** — from raw data in
 
 **Source:** Instacart-style grocery dataset (anonymized)
 
----
-
-## 🏗️ Project Structure
