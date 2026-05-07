@@ -4,13 +4,19 @@
 
 
 <img width="369" height="149" alt="33" src="https://github.com/user-attachments/assets/5426db7a-aa2a-432b-9c96-7f848a890845" />
+<br>
 <img width="564" height="356" alt="leastproduct" src="https://github.com/user-attachments/assets/1f23e543-c827-4601-945e-89c7a504ea26" />
+<br>
 <img width="448" height="355" alt="hifhyolowproduct" src="https://github.com/user-attachments/assets/64eb86d2-4714-4230-8386-5a4dc76906e8" />
+<br>
 <img width="1541" height="579" alt="departmenttotalorder" src="https://github.com/user-attachments/assets/5c0838b3-1fea-4de2-afc3-5d869c69add8" />
+<br>
 <img width="391" height="339" alt="department_reorderrate" src="https://github.com/user-attachments/assets/7f300287-6079-4ed7-b60b-22d5b881189e" />
+<br>
 <img width="312" height="86" alt="product_reveneue" src="https://github.com/user-attachments/assets/03116845-086c-4c12-bd44-be8e8123a29c" />
+<br>
 <img width="1223" height="748" alt="top15department" src="https://github.com/user-attachments/assets/a94eb7c8-d2fa-4626-91d2-54acfd9879b6" />
-![Uploading toppairedproduct.PNG…]()
+<br>
 <img width="442" height="335" alt="reordred" src="https://github.com/user-attachments/assets/c519b1b9-165a-47c9-81a3-d22524644715" />
 
 ---
